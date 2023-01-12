@@ -74,3 +74,11 @@
             flex-direction: column;
         }
     }
+    @media all and (max-width: 600px){
+        .articles{
+            flex-direction: column;
+        }
+        .menu{
+            flex-direction: column; 
+        }
+    }
